@@ -5,3 +5,7 @@ Essa linha foi adicionada a partir do repositório local.
 </br>
 
 Commitando essas alterações só com alguns botões.
+
+### Resolvendo conflitos
+
+<p>Esse parágrafo foi escrito no repositório local para que fossem feitos testes de merge.</p>
